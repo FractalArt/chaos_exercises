@@ -1,3 +1,5 @@
+# Nonlinear Dynamics And Chaos Exercises
+
 This repository contains code that was written while solving the exercises
 to the book
 
